@@ -1,13 +1,13 @@
-🦁 ZooBauru — Guia Turístico
+# ZooBauru — Guia Turístico
 
 O ZooBauru é um aplicativo desenvolvido em Flutter com o objetivo de aproximar o público do Zoológico Municipal de Bauru, oferecendo uma experiência informativa, intuitiva e interativa por meio de diferentes telas dedicadas aos animais e áreas do zoológico.
 
-📱 Sobre o Projeto
+## Sobre o Projeto
 
 O ZooBauru permite que visitantes naveguem facilmente entre telas organizadas, explorando informações sobre os animais, curiosidades, história e demais elementos do zoológico.
 A proposta é proporcionar uma experiência educativa, acessível e visualmente agradável.
 
-🎯 Objetivo do App
+## Objetivo do App
 
 O aplicativo ZooBauru foi desenvolvido com o objetivo de:
 
@@ -19,18 +19,18 @@ Facilitar a navegação e localização dentro do zoológico
 
 Servir como ferramenta educativa para alunos e visitantes
 
-🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Flutter (Dart)
 
 Android Studio
 
-📱 Requisitos Mínimos
+### Requisitos Mínimos
 
 Sistema Operacional: Android 8.0 (Oreo) ou superior
 
-🚀 Instruções de Instalação e Uso
-1. Instalação
+## Instruções de Instalação e Uso
+#### 1. Instalação
 
 Baixe o arquivo .apk disponibilizado pelo grupo (ou gere pelo Android Studio).
 
@@ -38,7 +38,7 @@ No celular, permita a instalação de “Fontes desconhecidas” caso necessári
 
 Instale o aplicativo normalmente.
 
-2. Uso
+#### 2. Uso
 
 Abra o app ZooBauru.
 
@@ -48,18 +48,18 @@ Utilize o botão de voltar presente em todas as telas (exceto a inicial) para na
 
 Explore as informações, imagens e dados educativos fornecidos.
 
-👨‍🏫 Professor Responsável
+## Professor Responsável
 
-Prof. Dr. Elvio Gilberto Silva - Desenvolvimento de Software
+- Prof. Dr. Elvio Gilberto Silva - Desenvolvimento de Software
 
-👨‍💻 Integrantes do Grupo
+## Integrantes do Grupo
 
--Carlos Eduardo Rodrigues Silva
+- Carlos Eduardo Rodrigues Silva
 
--Daniel Lucarelli Cerri
+- Daniel Lucarelli Cerri
 
--Melck Silva de Oliveira
+- Melck Silva de Oliveira
 
--Murilo Moretto Marques
+- Murilo Moretto Marques
 
--Vinícius dos Santos
+- Vinícius dos Santos
