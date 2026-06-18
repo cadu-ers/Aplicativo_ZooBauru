@@ -53,7 +53,7 @@ O **Zoo Bauru** é um aplicativo desenvolvido em **Flutter** que aproxima o púb
 
 Os visitantes podem explorar o mapa do zoológico, conhecer os animais do plantel, ouvir os sons de cada espécie e acessar informações científicas — tudo na palma da mão.
 
-> Desenvolvido como projeto de extensão da disciplina **Desenvolvimento de Software** no [Centro Universitário Sagrado Coração — UNISAGRADO](https://www.unisagrado.edu.br), dentro do programa **Fábrica de Software 2026**.
+> Desenvolvido como projeto de extensão da disciplina **Desenvolvimento de Software** no [Centro Universitário Sagrado Coração — UNISAGRADO](https://www.unisagrado.edu.br).
 
 ---
 
